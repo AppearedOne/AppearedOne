@@ -1,5 +1,5 @@
 @AppearedOne
-Hey there, I develpo desktop applications and games in C++ and Java.
+Hey there, I develop desktop applications, games and apis in C++, Rust and Java (if all else fails).
 
-- 📫 How to reach me: Discord: TheAppearedOne#6815
+Discord: TheAppearedOne#6815
 
